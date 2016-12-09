@@ -16,7 +16,7 @@ class classPDO
 	public function __construct(
 		$drive = "mysql",
 		$host = "localhost",
-		$database = "test",
+		$database = "moneytracking",
 		$username = "root",
 		$password = ""
 	){

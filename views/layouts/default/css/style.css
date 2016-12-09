@@ -6,8 +6,11 @@
 .container{
 	width: 90%;
 	margin: 0 auto;
+	background-color: red;
 }
-
+table .usuarios{
+	text-align: center;
+}
 body { 
 	
 }
